@@ -14,7 +14,7 @@ This project implements a receipt processor web service using FastAPI. The API c
 ### Local Setup with Python
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/AbhayBhaskar1/Receipt-Processor.git
    cd receipt-processor
    ```
 
